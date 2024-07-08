@@ -29,6 +29,44 @@ This project is an in-depth analysis of a call center's performance using Power 
 - **Answered most calls:** Highest call volume
 - **Average speed of answer:** 66.34 seconds
 - **Resolution Rate:** 90%
+## Quaterly Trends
+- **Answered Call Rate:** 80.45%
+- **Abandoned Call Rate:** 19.55%
+- **Call Volume/Day:** 7
+- **Average Speed of Answer:** 68.44 seconds
+- **Answered Call Resolution Rate:** 91%
+## Notable Trends
+- **Most Calls Answered:** February (176)
+- **Highest Resolution Rate:** Talk duration of 2:40 min (93%)
+- **Performance Decrease:** Drop in answered call rate from 89.47% to 50%
+- **Resolution Rate for Payment Issues:** 93%
+- **Resolution Rate for Technical Support:** 88%
+## Resolution Rates by Topic
+- **Payment Issues:**
+  - Resolution Rate: 93%
+  - Answered Rate: 89%
+  - Abandoned Call Rate: 11%
+- **Technical Support:**
+  - Resolution Rate: 88%
+  - Answered Rate: 85%
+  - Abandoned Call Rate: 15%
+## SWOT Analysis
+### Strengths
+- **High Resolution Rate:** 90% overall, with specific high rates for payment issues (93%) and technical support (88%).
+- **Efficient Agents:** Greg and Jim show high performance in both speed and resolution.
+- **Consistent Call Volume:** Stable call volume per day, indicating steady customer interaction.
+### Weaknesses
+- **High Abandoned Call Rate:** 19.55% is significant and needs improvement.
+- **Performance Decrease:** Notable drop in answered call rate towards the end of the quarter.
+- **Average Speed of Answer:** 00:03:45 could be reduced to improve customer satisfaction.
+### Opportunities
+-**Training Programs:** Implement targeted training to reduce call handling time and abandoned call rates.
+- **Technology Upgrades:** Invest in better call routing and automated systems to enhance efficiency.
+- **Customer Feedback:** Use customer feedback to identify pain points and improve service quality.
+### Threats
+- **Competition:** Other call centers might offer faster service, impacting customer retention.
+- **Operational Costs:** Increasing costs of maintaining high-resolution rates and low wait times.
+- **Employee Turnover:** High stress in call centers can lead to higher turnover, affecting performance.
 
 ## Strategic Recommendations
 1. **Improve Call Handling Efficiency:**
