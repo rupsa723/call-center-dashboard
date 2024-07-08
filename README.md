@@ -2,7 +2,7 @@
 ## Project Overview
 This project is an in-depth analysis of a call center's performance using Power BI. It examines key metrics, agent performance, and quarterly trends to provide insights and recommendations for improving operational efficiency and customer satisfaction.
 ## Features
-- **Call Center Statistics:** Overview of key metrics such as answered call rate, call volume per day, average speed of answer, resolution rate, and average talk duration.
+- [**Call Center Statistics:**](#Key Metrics) Overview of key metrics such as answered call rate, call volume per day, average speed of answer, resolution rate, and average talk duration.
 
 - **Agent Performance:** Detailed insights into individual agent performance, focusing on key agents like Greg and Jim.
 
