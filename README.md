@@ -99,8 +99,6 @@ To capitalize on our strengths and address these challenges, strategic initiativ
 - **Efficient Call Handling:** Implement skill-based routing and prioritize first-call resolution to improve overall service efficiency.
   
 These strategies, implemented over a structured timeline, will not only address current weaknesses but also position us to leverage technological advancements and customer feedback for sustained improvement in operational efficiency and customer satisfaction. By fostering a supportive work environment and investing in ongoing training and technology, we aim to enhance service excellence and maintain competitive advantage in the marketplace.
-## License
-This project is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0). This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to the original author.
 ## Contact Information
 - **Author:** Rupsa Chaudhuri
 - [LinkedIn](https://www.linkedin.com/in/rupsa-chaudhuri/)
